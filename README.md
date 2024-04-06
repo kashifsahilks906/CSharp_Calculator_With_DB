@@ -29,7 +29,10 @@ This is a simple calculator application developed using C# and Windows Forms. It
 
 ## Screenshots
 
-![Calculator Application Screenshot](/screenshots/calculator_screenshot.png)
+![Calculator Application Screenshot](/Application Screenshots/Front.png)
+![Calculator Application Screenshot](/Application Screenshots/History.png)
+![Calculator Application Screenshot](/Application Screenshots/Delete.png)
+![Calculator Application Screenshot](/Application Screenshots/Update.png)
 
 ## Contributing
 
