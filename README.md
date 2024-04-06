@@ -29,10 +29,14 @@ This is a simple calculator application developed using C# and Windows Forms. It
 
 ## Screenshots
 
-![Calculator Application Screenshot](/Application Screenshots/Front.png)
-![Calculator Application Screenshot](/Application Screenshots/History.png)
-![Calculator Application Screenshot](/Application Screenshots/Delete.png)
-![Calculator Application Screenshot](/Application Screenshots/Update.png)
+![Front](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/5000d527-a6c2-4aab-9328-170718181def)
+
+![History](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/901669c7-87f2-4c8d-a79a-221e808b382c)
+
+![Delete](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/b0e22b81-89b9-4af9-9f30-610504afe05b)
+
+![Update](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/0f8e8a60-aec2-42cd-9104-a3155c30a2a4)
+
 
 ## Contributing
 
