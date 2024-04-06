@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|e:\\university_semesters_data\\4th_semester\\database systems-lab\\assignment 1\\code\\calculator\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\calculator\\deletecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\deletecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\calculator\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\calculator\\updatecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\updatecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\calculator\\deletecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\deletecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\calculator\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\calculator\\updatecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D983C51E-56FB-4F7B-B8F1-49C8433E10F7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\updatecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\Calculator.csproj",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\Calculator.csproj",
+              "RelativeToolTip": "Calculator\\Calculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T22:16:33.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs [Design]",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\Calculator.cs [Design]",
+              "RelativeToolTip": "Calculator\\Calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:22:12.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteCal.cs [Design]",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\DeleteCal.cs",
+              "RelativeDocumentMoniker": "Calculator\\DeleteCal.cs",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\DeleteCal.cs [Design]",
+              "RelativeToolTip": "Calculator\\DeleteCal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T02:32:59.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCal.cs",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\DeleteCal.cs",
+              "RelativeDocumentMoniker": "Calculator\\DeleteCal.cs",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\DeleteCal.cs",
+              "RelativeToolTip": "Calculator\\DeleteCal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T02:20:20.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator\\Calculator.cs",
+              "ViewState": "AQIAALsBAAAAAAAAAAAswNABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:20:02.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCal.cs",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\UpdateCal.cs",
+              "RelativeDocumentMoniker": "Calculator\\UpdateCal.cs",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\UpdateCal.cs",
+              "RelativeToolTip": "Calculator\\UpdateCal.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAkwIAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:39:29.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\History.cs",
+              "RelativeDocumentMoniker": "Calculator\\History.cs",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\History.cs [Design]",
+              "RelativeToolTip": "Calculator\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:56:00.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "History.cs",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\History.cs",
+              "RelativeDocumentMoniker": "Calculator\\History.cs",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\History.cs",
+              "RelativeToolTip": "Calculator\\History.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:23:13.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCal.cs [Design]",
+              "DocumentMoniker": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\UpdateCal.cs",
+              "RelativeDocumentMoniker": "Calculator\\UpdateCal.cs",
+              "ToolTip": "E:\\University_Semesters_Data\\4th_semester\\Database Systems-Lab\\Assignment 1\\Code\\Calculator\\Calculator\\UpdateCal.cs [Design]",
+              "RelativeToolTip": "Calculator\\UpdateCal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:56:14.723Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
