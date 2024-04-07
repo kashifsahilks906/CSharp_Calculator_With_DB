@@ -19,6 +19,7 @@ This is a simple calculator application developed using C# and Windows Forms. It
 4. Perform calculations using the provided buttons.
 5. View calculation history by clicking on the "History" button.
 6. Update or delete historical calculations as needed.
+7. If you don't have Visual Studio then u can direct use the app by going in the "Calculator Application" and run "Calculator.exe".
 
 ## Technologies Used
 
