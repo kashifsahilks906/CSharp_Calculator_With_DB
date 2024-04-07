@@ -42,6 +42,3 @@ This is a simple calculator application developed using C# and Windows Forms. It
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
