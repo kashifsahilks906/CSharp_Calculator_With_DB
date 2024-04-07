@@ -30,13 +30,14 @@ This is a simple calculator application developed using C# and Windows Forms. It
 
 ## Screenshots
 
-![Front](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/5000d527-a6c2-4aab-9328-170718181def)
+![Front](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/2d45a9a2-4d09-4f41-bda5-2f08e5a137c3)
 
-![History](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/901669c7-87f2-4c8d-a79a-221e808b382c)
 
-![Delete](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/b0e22b81-89b9-4af9-9f30-610504afe05b)
+![History](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/7347a77e-43c4-4d89-aff5-20e9251a7d32)
 
-![Update](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/0f8e8a60-aec2-42cd-9104-a3155c30a2a4)
+![Update](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/574bebb5-949f-4db2-9567-8be6e89c047e)
+
+![Delete](https://github.com/kashifsahilks906/My_CSharp_Calculator_With_DB/assets/112303807/1a0bf3fb-2878-49ca-93c0-6981f7172784)
 
 
 ## Contributing
